@@ -1,2 +1,2 @@
 # Constructor
-Constructor Hakkında En Temel Açıklam
+Constructor Hakkında En Temel Açıklama
